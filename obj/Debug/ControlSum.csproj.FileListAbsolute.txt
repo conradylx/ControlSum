@@ -1,0 +1,10 @@
+C:\Users\frank\Desktop\ControlSum\ControlSum\bin\Debug\ControlSum.exe.config
+C:\Users\frank\Desktop\ControlSum\ControlSum\bin\Debug\ControlSum.exe
+C:\Users\frank\Desktop\ControlSum\ControlSum\bin\Debug\ControlSum.pdb
+C:\Users\frank\Desktop\ControlSum\ControlSum\obj\Debug\ControlSum.csprojAssemblyReference.cache
+C:\Users\frank\Desktop\ControlSum\ControlSum\obj\Debug\ControlSum.Form1.resources
+C:\Users\frank\Desktop\ControlSum\ControlSum\obj\Debug\ControlSum.Properties.Resources.resources
+C:\Users\frank\Desktop\ControlSum\ControlSum\obj\Debug\ControlSum.csproj.GenerateResource.cache
+C:\Users\frank\Desktop\ControlSum\ControlSum\obj\Debug\ControlSum.csproj.CoreCompileInputs.cache
+C:\Users\frank\Desktop\ControlSum\ControlSum\obj\Debug\ControlSum.exe
+C:\Users\frank\Desktop\ControlSum\ControlSum\obj\Debug\ControlSum.pdb
