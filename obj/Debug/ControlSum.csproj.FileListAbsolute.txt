@@ -8,3 +8,13 @@ C:\Users\frank\Desktop\ControlSum\ControlSum\obj\Debug\ControlSum.csproj.CoreCom
 C:\Users\frank\Desktop\ControlSum\ControlSum\obj\Debug\ControlSum.exe
 C:\Users\frank\Desktop\ControlSum\ControlSum\obj\Debug\ControlSum.pdb
 C:\Users\frank\Desktop\ControlSum\ControlSum\obj\Debug\ControlSum.ControlSum.resources
+C:\Users\frank\Documents\GitHub\ControlSum\ControlSum\bin\Debug\ControlSum.exe.config
+C:\Users\frank\Documents\GitHub\ControlSum\ControlSum\bin\Debug\ControlSum.exe
+C:\Users\frank\Documents\GitHub\ControlSum\ControlSum\bin\Debug\ControlSum.pdb
+C:\Users\frank\Documents\GitHub\ControlSum\ControlSum\obj\Debug\ControlSum.csprojAssemblyReference.cache
+C:\Users\frank\Documents\GitHub\ControlSum\ControlSum\obj\Debug\ControlSum.ControlSum.resources
+C:\Users\frank\Documents\GitHub\ControlSum\ControlSum\obj\Debug\ControlSum.Properties.Resources.resources
+C:\Users\frank\Documents\GitHub\ControlSum\ControlSum\obj\Debug\ControlSum.csproj.GenerateResource.cache
+C:\Users\frank\Documents\GitHub\ControlSum\ControlSum\obj\Debug\ControlSum.csproj.CoreCompileInputs.cache
+C:\Users\frank\Documents\GitHub\ControlSum\ControlSum\obj\Debug\ControlSum.exe
+C:\Users\frank\Documents\GitHub\ControlSum\ControlSum\obj\Debug\ControlSum.pdb

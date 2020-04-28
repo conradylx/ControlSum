@@ -20,7 +20,7 @@ namespace ControlSum
 
         public void Poland()
         {
-            Regex validation = new Regex("^[1-9]{24}$");
+            Regex validation = new Regex("^[0-9]{24}$");
             Boolean isValid = validation.IsMatch(nrbInput.Text);
 
             if (!isValid)
@@ -41,7 +41,7 @@ namespace ControlSum
         }
         public void Germany()
         {
-            Regex validation = new Regex("^[1-9]{20}$");
+            Regex validation = new Regex("^[0-9]{20}$");
             Boolean isValid = validation.IsMatch(nrbInput.Text);
 
             if (!isValid)
@@ -62,7 +62,7 @@ namespace ControlSum
         }
         public void Slovakia()
         {
-            Regex validation = new Regex("^[1-9]{22}$");
+            Regex validation = new Regex("^[0-9]{22}$");
             Boolean isValid = validation.IsMatch(nrbInput.Text);
 
             if (!isValid)
@@ -71,7 +71,7 @@ namespace ControlSum
             }
             else
             {
-                string number = nrbInput.Text + Convert.ToByte('D') + Convert.ToByte('E');
+                string number = nrbInput.Text + Convert.ToByte('S') + Convert.ToByte('K');
                 int modulo = 0;
 
                 foreach (char znak in number)
