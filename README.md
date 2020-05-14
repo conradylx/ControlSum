@@ -11,7 +11,7 @@
 Basic program created to facilitate the calculation of the checksum at work.
 
 ## Technologies
-* .NET
+* .NET / C#
 * Windows Forms
 
 ## Features
