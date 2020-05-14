@@ -29,9 +29,10 @@ namespace ControlSum
             }
             else
             {
-                string number = nrbInput.Text + Convert.ToByte('P') + Convert.ToByte('L');
+                //string number = nrbInput.Text + Convert.ToByte('P') + Convert.ToByte('L');
+                string number = nrbInput.Text + 252100;
                 int modulo = 0;
-
+                
                 foreach (char znak in number)
                     modulo = (10 * modulo + int.Parse(znak.ToString())) % 97;
                 modulo = 98 - modulo;
@@ -50,7 +51,8 @@ namespace ControlSum
             }
             else
             {
-                string number = nrbInput.Text + Convert.ToByte('D') + Convert.ToByte('E');
+                //D-13, E-14
+                string number = nrbInput.Text + 131400;
                 int modulo = 0;
 
                 foreach (char znak in number)
@@ -71,7 +73,8 @@ namespace ControlSum
             }
             else
             {
-                string number = nrbInput.Text + Convert.ToByte('S') + Convert.ToByte('K');
+                //S - 28, K=20
+                string number = nrbInput.Text + 282000;
                 int modulo = 0;
 
                 foreach (char znak in number)
@@ -98,6 +101,11 @@ namespace ControlSum
             {
                 Slovakia();
             }
+        }
+
+        private void nrbOutput_TextChanged(object sender, EventArgs e)
+        {
+            Clipboard.SetText(nrbOutput.Text);
         }
     }
 }

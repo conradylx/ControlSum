@@ -18,3 +18,7 @@ C:\Users\frank\Documents\GitHub\ControlSum\ControlSum\obj\Debug\ControlSum.cspro
 C:\Users\frank\Documents\GitHub\ControlSum\ControlSum\obj\Debug\ControlSum.csproj.CoreCompileInputs.cache
 C:\Users\frank\Documents\GitHub\ControlSum\ControlSum\obj\Debug\ControlSum.exe
 C:\Users\frank\Documents\GitHub\ControlSum\ControlSum\obj\Debug\ControlSum.pdb
+C:\Users\frank\Desktop\ControlSum\ControlSum\bin\Debug\ControlSum.exe.manifest
+C:\Users\frank\Desktop\ControlSum\ControlSum\bin\Debug\ControlSum.application
+C:\Users\frank\Desktop\ControlSum\ControlSum\obj\Debug\ControlSum.exe.manifest
+C:\Users\frank\Desktop\ControlSum\ControlSum\obj\Debug\ControlSum.application

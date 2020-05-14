@@ -97,6 +97,7 @@
             this.nrbOutput.Name = "nrbOutput";
             this.nrbOutput.Size = new System.Drawing.Size(406, 22);
             this.nrbOutput.TabIndex = 1;
+            this.nrbOutput.TextChanged += new System.EventHandler(this.nrbOutput_TextChanged);
             // 
             // label2
             // 
@@ -128,7 +129,7 @@
             this.Controls.Add(this.groupBox1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "ControlSum";
-            this.Text = "ConstrolSum";
+            this.Text = "NRBSum";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
